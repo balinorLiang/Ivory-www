@@ -47,6 +47,14 @@
     "message": "安装",
     "description": "Navbar item with label Installation"
   },
+  "item.label.Quick Start (English Version)": {
+    "message": "快速开始（英文）",
+    "description": "Navbar item with label Quick Start (English Version)"
+  },
+  "item.label.Quick Start (Chinese Version)": {
+    "message": "快速开始（中文）",
+    "description": "Navbar item with label Quick Start (Chinese Version)"
+  },
   "item.label.Blog": {
     "message": "博客",
     "description": "Navbar item with label Blog"
