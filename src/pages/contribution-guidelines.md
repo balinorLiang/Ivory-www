@@ -1,5 +1,5 @@
 # 项目贡献流程
-![process](../../../static/img/process.png)
+![process](../../static/img/process.png)
 
 # Contributing
 IvorySQL is maintained by a core team of developers with commit rights to the main IvorySQL repository on GitHub. At the same time, we are very eager to receive contributions from anybody in the wider IvorySQL community. This section covers all you need to know if you want to see your code or documentation changes be added to IvorySQL and appear in future releases.
@@ -50,4 +50,4 @@ On occasion, you will see core team members committing directly to the repositor
 
 
 # CLA文件下载路径
-[点击下载](../../../static/pdf/cla.pdf)
+[点击下载](../../static/pdf/cla.pdf)
