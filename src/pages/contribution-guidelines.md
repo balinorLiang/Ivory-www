@@ -1,3 +1,6 @@
+# 项目贡献流程
+![process](../../../static/img/process.png)
+
 # Contributing
 IvorySQL is maintained by a core team of developers with commit rights to the main IvorySQL repository on GitHub. At the same time, we are very eager to receive contributions from anybody in the wider IvorySQL community. This section covers all you need to know if you want to see your code or documentation changes be added to IvorySQL and appear in future releases.
 
@@ -45,3 +48,6 @@ At any time during the patch review, you may experience delays based on the avai
 # Direct commits to the repository
 On occasion, you will see core team members committing directly to the repository without going through the pull request workflow. This is reserved for small changes only and the rule of thumb we use is this: if the change touches any functionality that may result in a test failure, then it has to go through a pull request workflow. If, on the other hand, the change is in the non-functional part of the codebase (such as fixing a typo inside of a comment block) core team members can decide to just commit to the repository directly.
 
+
+# CLA文件下载路径
+[点击下载](../../../static/pdf/cla.pdf)
